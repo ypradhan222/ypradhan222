@@ -21,6 +21,11 @@
         </tr>
         <tr>
             <td><a href="https://github.com/ypradhan222/II-Sem">II Sem MTech</a> - 2nd Sem M.Tech</td>
+            <td><a href="https://github.com/ypradhan222/Image-Watermarking-in-Latent-Diffusion-Models">Image-Watermarking-in-Latent-Diffusion-Models</a> - Project</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/ypradhan222/3d_reconstruction-_using_2d_ct_images">3d Reconstructionu Uing 2D CT Images</a> - Analysis</td>
+<!--             <td><a href="https://github.com/ypradhan222/Image-Watermarking-in-Latent-Diffusion-Models">Image-Watermarking-in-Latent-Diffusion-Models</a> - Project</td> -->
         </tr>
     </table>
 </div>
